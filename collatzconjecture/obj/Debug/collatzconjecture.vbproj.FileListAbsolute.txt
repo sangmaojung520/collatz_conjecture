@@ -1,0 +1,11 @@
+C:\Users\T480s\source\repos\collatzconjecture\collatzconjecture\obj\Debug\collatzconjecture.vbprojAssemblyReference.cache
+C:\Users\T480s\source\repos\collatzconjecture\collatzconjecture\obj\Debug\collatzconjecture.Resources.resources
+C:\Users\T480s\source\repos\collatzconjecture\collatzconjecture\obj\Debug\collatzconjecture.vbproj.GenerateResource.cache
+C:\Users\T480s\source\repos\collatzconjecture\collatzconjecture\obj\Debug\collatzconjecture.vbproj.CoreCompileInputs.cache
+C:\Users\T480s\source\repos\collatzconjecture\collatzconjecture\bin\Debug\collatzconjecture.exe.config
+C:\Users\T480s\source\repos\collatzconjecture\collatzconjecture\bin\Debug\collatzconjecture.exe
+C:\Users\T480s\source\repos\collatzconjecture\collatzconjecture\bin\Debug\collatzconjecture.pdb
+C:\Users\T480s\source\repos\collatzconjecture\collatzconjecture\bin\Debug\collatzconjecture.xml
+C:\Users\T480s\source\repos\collatzconjecture\collatzconjecture\obj\Debug\collatzconjecture.exe
+C:\Users\T480s\source\repos\collatzconjecture\collatzconjecture\obj\Debug\collatzconjecture.xml
+C:\Users\T480s\source\repos\collatzconjecture\collatzconjecture\obj\Debug\collatzconjecture.pdb
